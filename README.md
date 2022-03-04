@@ -1,6 +1,6 @@
 ### Hi there, I'm Ana a Jr. developer 👋
 
-- I'm a student of computer science...
+- I'm a student of computer science, I will try sometimes contribute here with my work...
 
 - 🌱 I’m currently learning new things and training the old ones
 - 📫 How to reach me: You can reach me on my Linkedin account - https://www.linkedin.com/in/soslyne-moreira-4aa935196/
