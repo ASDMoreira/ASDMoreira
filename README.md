@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning new things and training the old ones
 - 📫 How to reach me: You can reach me on my Linkedin account - https://www.linkedin.com/in/soslyne-moreira-4aa935196/
-- ⚡ Fun fact: I've been fascinated by technology since I was a kid
+- ⚡ Fun fact: I've been fascinated by technology since I was a kid haha, so now, I'm here doing my best...
 
 Skills: HTML, CSS, BOOTSTRAP, JAVA, FIGMA to UX/UI design and a little bit of PYTHON, JS, REACT and FLUTTER 
 
